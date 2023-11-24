@@ -1,1 +1,1 @@
-# conflictest
+# conflictest -b
